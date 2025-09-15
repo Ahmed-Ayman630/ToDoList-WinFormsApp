@@ -1,0 +1,16 @@
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\bin\Debug\net9.0-windows\ToDoListWinForms.exe
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\bin\Debug\net9.0-windows\ToDoListWinForms.deps.json
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\bin\Debug\net9.0-windows\ToDoListWinForms.runtimeconfig.json
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\bin\Debug\net9.0-windows\ToDoListWinForms.dll
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\bin\Debug\net9.0-windows\ToDoListWinForms.pdb
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.csproj.GenerateResource.cache
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.AssemblyInfoInputs.cache
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.AssemblyInfo.cs
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.csproj.CoreCompileInputs.cache
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.dll
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\refint\ToDoListWinForms.dll
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.pdb
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.genruntimeconfig.cache
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ref\ToDoListWinForms.dll
+D:\courses\codveda\ToDoListWinForms\ToDoListWinForms\obj\Debug\net9.0-windows\ToDoListWinForms.Form1.resources
