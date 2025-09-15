@@ -20,7 +20,7 @@ This project extends the functionality of the console-based To-Do List app into 
 
 Here’s how the application looks:  
 
-![Main Window](assets/screenshot1.png)  
+![Main Window](assets/Screenshot1.png)  
 
 ---
 
